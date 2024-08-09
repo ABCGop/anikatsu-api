@@ -1,6 +1,6 @@
 # Anime API
 
-Modified api of [Gogoanime-api](https://github.com/riimuru/gogoanime-api)
+Modified api of [Gogoanime-api](https://github.com/ABCGop/anikatsu-api)
 
 ### Installing
 
@@ -22,11 +22,9 @@ Now the server is running on <a href="http://localhost:3000">http://localhost:30
 ### Render
 Host your own api on render using the button below.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/KirixenYT/anime-api)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ABCGop/anikatsu-api)
 
 ### Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkirixenyt%2Fanime-api)
-
-[![Join our Discord server!](https://invidget.switchblade.xyz/BgTWqFnEss)](https://discord.gg/BgTWqFnEss)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FABCGop%2Fanikatsu-api)
 
