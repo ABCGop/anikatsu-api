@@ -1,6 +1,6 @@
 # Anime API
 
-Modified api of [Gogoanime-api](https://github.com/ABCGop/anikatsu-api)
+Modified api of [Gogoanime-api](https://github.com/riimuru/gogoanime-api)
 
 ### Installing
 
